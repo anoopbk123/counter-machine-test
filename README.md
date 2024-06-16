@@ -1,5 +1,9 @@
 # A machine test
-# 3 counters using redux
+# 3 counters using redux  
+To view task details follow:- [https://github.com/anoopbk123/counter-machine-test/blob/master/Machine%20Test%20Questions.pdf](https://github.com/anoopbk123/counter-machine-test/blob/master/Machine%20Test%20Questions.pdf)  
+  
+  
+To view:- [https://counter-machine-test-pin3.vercel.app/](https://counter-machine-test-pin3.vercel.app/)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
